@@ -30,7 +30,8 @@ if ($nilai >=60):
 	echo "<br>";
 endif;
 
-/*belajar Switch case*/
+/*belajar Switch case
+untuk menguji pernyataan yang memiliki banyak kondisi*/
 
 $status = 2;
 switch ($status) {
