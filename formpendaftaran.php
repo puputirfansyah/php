@@ -27,14 +27,14 @@
     <div style="margin-bottom: 1rem;">
         <label>Status</label> <br>
         <select name="status">
-            <option value="lajang">Lajang</option>
+            <option value="Single">Single</option>
             <option value="menikah">Menikah</option>
         </select>
     </div>
     <div style="margin-bottom: 1rem;">
         <label>Hobi</label> <br>
         <input type="checkbox" name="hobi[]" value="bernyanyi"> Bernyanyi <br>
-        <input type="checkbox" name="hobi[]" value="main bola"> Main Bola <br>
+        <input type="checkbox" name="hobi[]" value="olahraga"> olahraga <br>
         <input type="checkbox" name="hobi[]" value="traveling"> Traveling <br>
         <input type="checkbox" name="hobi[]" value="ngoding"> Ngoding <br>
     </div>
